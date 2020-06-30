@@ -1,0 +1,7 @@
+frontreact/node_modules
+frontreact/build
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
